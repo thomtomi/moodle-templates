@@ -33,6 +33,8 @@ jobs:
             pandoc "$file" \
               --from markdown \
               --to html \
+              --wrap=none \
+              --strip-comments \
               --output "$output_path"
           done
 
