@@ -27,6 +27,19 @@ Die Vorlagen werden in **HTML für Moodle** überführt.
 - Kein JavaScript, keine externen Abhängigkeiten.
 - HTML muss in Moodle-Textfeldern robust funktionieren.
 
+## Workflow Markdown → HTML
+
+- Die Dateien in `/templates-md` sind die verbindliche Quelle.
+- Dateien in `/templates-html` werden aus den Markdown-Dateien erzeugt.
+- HTML-Dateien dürfen nicht manuell inhaltlich weiterentwickelt werden, ausser ich verlange es ausdrücklich.
+- Änderungen an Vorlagen erfolgen zuerst immer in der passenden Markdown-Datei.
+- Wenn eine passende HTML-Datei bereits existiert, darf sie nur nach expliziter Bestätigung überschrieben werden.
+- Vor dem Überschreiben bestehender HTML-Dateien muss kurz benannt werden:
+  - welche Datei überschrieben wird,
+  - warum die Änderung nötig ist,
+  - ob Inhalte verloren gehen könnten.
+- Wenn Markdown und HTML voneinander abweichen, gilt grundsätzlich Markdown als Quelle.
+
 ## Zielgruppen- und Sprachregel (verbindlich)
 - **Für Lernende:** immer **Sie-Form**.
 - **Für Lehrpersonen-Anleitungen:** immer **Du-Form**.
@@ -85,8 +98,9 @@ Vorlagen folgen (wo sinnvoll) dem Raster:
 - Kein `<i class="fa ...">` ausser explizit verlangt.
 
 ## Template-Standards
-- Pro Template zwei Dateien:
+- Pro Template gibt es eine gepflegte Quelldatei:
   - `/templates-md/<name>.md`
+- Die passende HTML-Datei wird daraus erzeugt:
   - `/templates-html/<name>.html`
 - Namen sprechend und mit Zielgruppe:
   - `activity-...-lernende-sie.*`

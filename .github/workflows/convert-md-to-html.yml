@@ -1,0 +1,55 @@
+name: Convert Markdown to HTML
+
+on:
+  push:
+    paths:
+      - "templates-md/**/*.md"
+      - ".github/workflows/convert-md-to-html.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repository auschecken
+        uses: actions/checkout@v4
+
+      - name: Pandoc installieren
+        run: sudo apt-get update && sudo apt-get install -y pandoc
+
+      - name: Markdown nach HTML konvertieren
+        run: |
+          mkdir -p templates-html
+
+          find templates-md -name "*.md" | while read file; do
+            relative_path="${file#templates-md/}"
+            output_path="templates-html/${relative_path%.md}.html"
+
+            mkdir -p "$(dirname "$output_path")"
+
+            pandoc "$file" \
+              --from markdown \
+              --to html \
+              --output "$output_path"
+          done
+
+      - name: Änderungen anzeigen
+        run: |
+          git status --short
+
+      - name: HTML-Dateien committen
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+
+          git add templates-html
+
+          if git diff --cached --quiet; then
+            echo "Keine HTML-Änderungen."
+          else
+            git commit -m "Auto-convert Markdown templates to HTML"
+            git push
+          fi
