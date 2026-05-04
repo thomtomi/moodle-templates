@@ -35,6 +35,7 @@ jobs:
               --to html \
               --wrap=none \
               --strip-comments \
+              --lua-filter=.github/filters/table-bootstrap.lua \
               --output "$output_path"
           done
 
