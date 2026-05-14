@@ -1,19 +1,22 @@
 ### Leistungsnachweise
 
-Der Kurs gilt als bestanden, wenn der folgende Leistungsnachweis erfolgreich absolviert wurden:
+Der Ausbildungsblock gilt als bestanden, wenn Sie die folgenden Pflichtaktivitäten korrekt abgeschlossen haben:
 
-*   Online-Prüfung FS2526 | Evolutionsbiologie (=Leistungsnachweis) mit SEB (zählt 1x)
+* **Glossar | Fachbegriffe** – mindestens 1 eigener Eintrag
+* **Test (formativ) | Vorwissen Ökologie** – mindestens 75 % richtige Antworten
+* **Aufgabe | Themenpuzzle zu biotische Umweltfaktoren** – einen eigenen Beitrag verfasst und die Fragen der anderen Gruppen beantwortet
+* **Buch | Der Mensch als Gefahr für die biologische Vielfalt** – vollständig durchgearbeitet
 
-Die Gesamtbewertung aller Leistungsnachweise muss für eine ausreichende Leistung mindestens die Note 4.0 erreichen. Sollte Ihre Note unter 4.0 liegen, bitte ich Sie, mit mir in Kontakt zu treten, um mögliche Lernmethoden oder Lernhindernisse gemeinsam zu besprechen.
+### Zusätzliche Note (fakultativ)
 
-### Termine der Leistungsnachweise
+Sie haben die Möglichkeit, einen zusätzlichen Leistungsnachweis zu erbringen. Dieser zählt gleich viel wie die bereits absolvierten Online-Prüfungen in diesem Semester und kann Ihren Notendurchschnitt verbessern.
 
-| Datum/Woche | Programm |
-| :---------------------: | :----------------- |
-| Di. 05. Mai 2026 von 15:40 bis 16:25 Uhr | **BM1:** e-Prüfung FS2425 | Mikrobiologie (=Leistungsnachweis) SEB |
-| Di. 05. Mai 2026 von 11:20 bis 12:05 Uhr | **VZ:** e-Prüfung FS2425 | Mikrobiologie (=Leistungsnachweis) SEB |
-| Do. 07. Mai 2026 von 09:25 bis 10:10 Uhr | **TZ:** e-Prüfung FS2425 | Mikrobiologie (=Leistungsnachweis) SEB |
+| Abgabe | Leistungsnachweis |
+|---|---|
+| KW 23 | **Aufgabe \| Wo sehen Sie die Biodiversität bedroht?** – eine Filmaufnahme mit Erklärung im Forum veröffentlicht und zwei Kommentare zu anderen Beiträgen verfasst |
+| KW 23 | **Aufgabe \| Podcast Klimawandel** – einen Podcast erstellt, im Forum veröffentlicht und konstruktives Peerfeedback zu mindestens einem anderen Beitrag gegeben |
+| KW 23 | **e-Prüfung \| Ökologie (=Leistungsnachweis)** – mindestens Note 4.0 |
 
 ### Bewertungen
 
-Die Bewertungen ihrer Leistungsnachweise finden sie in der jeweiligen Moodle-Aktivität (z.B. Test) oder im Hauptmenü des Kursraums unter «Bewertungen».
+Ihre Bewertungen finden Sie in der jeweiligen Moodle-Aktivität oder im Hauptmenü des Kursraums unter «Bewertungen».

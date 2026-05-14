@@ -1,74 +1,78 @@
 #### [fa-bullseye] Ziele und Inhalte
 
-In diesem Kurs gewinnen Sie einen Überblick über die Evolution: Sie ordnen zentrale Stationen der Wissenschafts- und Evolutionsgeschichte zeitlich ein und verstehen ihren Zusammenhang. Sie erklären Darwins Mechanismen sowie die Faktoren der Synthetischen Evolutionstheorie und illustrieren beide mit anschaulichen Beispielen. Sie vergleichen Darwins Ansatz mit den Vorstellungen von Linné und Lamarck und erkennen Gemeinsamkeiten wie auch entscheidende Unterschiede.
+In diesem Ausbildungsblock gewinnen Sie einen umfassenden Überblick über zentrale ökologische Konzepte: Sie lernen, biologische Systeme hierarchisch einzuordnen, verstehen abiotische und biotische Umweltfaktoren sowie deren Auswirkungen auf Organismen und Populationen. Sie erklären Räuber-Beute-Beziehungen, analysieren Konkurrenz und Symbiose, und wenden ökologische Nischenkonzepte an.
 
-Sie benennen wichtige Belege der Evolution (z. B. Fossilien, vergleichende Anatomie, Übereinstimmungen im Erbgut) und wenden die Homologiekriterien sicher an. Sie erklären grundlegende Begriffe der Populationsgenetik wie Gendrift, Isolation, Migration und Artenbildung sowie Flaschenhals- und Gründer-Effekt.
+Sie befassen sich mit Biodiversität auf genetischer, Arten- und Ökosystemebene, analysieren menschliche Bedrohungen für die biologische Vielfalt und reflektieren die Ursachen und Folgen des Klimawandels. Dabei erkennen Sie Zusammenhänge zwischen Ökosystemen, Populationsdynamik und globalen Herausforderungen.
 
-Sie skizzieren die Erdgeschichte in groben Zügen und beschreiben das Urey-Miller-Experiment zur Entstehung von Biomolekülen.
-
-Anhand der Themen Sozialdarwinismus und Eugenik entwickeln Sie eine begründete, reflektierte Position und schärfen Ihr ethisches Urteilsvermögen.
-
-Das Ziel ist, dass Sie Evolution nicht nur lernen, sondern verstehen, anwenden und selbstbewusst darüber kommunizieren – fundiert, differenziert und mit Freude am Entdecken.
+**Das zentrale Ziel:** Sie verstehen nicht nur ökologische Konzepte, sondern können sie auch auf reale Situationen anwenden und sinnvolle Massnahmen zur Nachhaltigkeit formulieren – fundiert, kritisch und mit echtem Interesse für die Natur.
 
 #### [fa-folder-open] Unterlagen
 
-Es gibt kein einzelnes Lehrmittel, das den gesamten Stoff vollständig abbildet. Grundlage für Ihr Selbststudium und die Prüfungen sind daher:
+Die Grundlagen für Ihr Selbststudium und die Leistungsnachweise sind:
 
-*   **Unterlagen zum Kurs:** alle relevanten Skripte & Arbeitsblätter.
-*   **Glossar | Fachbegriffe:** Begriffe können nachgeschlagen oder selber ergänzt werden.
-*   **Eigene Notizen:** persönliche Zusammenfassungen und Markierungen.
-*   **Empfohlene Lehr-/Nachschlagewerke:** siehe **[Literaturliste](#Literatur)** unten.
+- **Unterlagen zum Kurs:** Skripte, Arbeitsblätter und Bücher im Moodle-Kurs.
+- **Glossar | Fachbegriffe:** Nutzen Sie aktiv diese Sammlung – tragen Sie Ihre Fachbegriffe ein und lernen Sie von anderen.
+- **Eigene Notizen:** Persönliche Zusammenfassungen, Skizzen und Markierungen unterstützen Ihr Verständnis.
+- **Empfohlene Literatur:** siehe **[Literaturliste](#Literatur)** unten.
 
-Wichtige Standardwerke finden Sie zudem in der **Fach-Bibliothek im Labor**.
+Weitere Materialien finden Sie in der **Fach-Bibliothek im Labor**.
 
 #### [fa-group] Unterrichtsform
 
-Das Thema **Evolutionsbiologie** wird überwiegend im Präsenzunterricht vermittelt. Einzelne Sequenzen können im Blended-Learning-Modell oder als reine Online-Phasen stattfinden. Der Präsenzunterricht wechselt zwischen
+Der Ausbildungsblock verbindet Präsenzunterricht mit Online-Phasen im Blended-Learning-Modell. Im Präsenzunterricht wechseln wir zwischen:
 
-*   klassischem Input durch die Lehrperson,
-*   Phasen selbstständigen Arbeitens sowie
-*   kooperativen Gruppen- oder Projektarbeiten.
+- klassischem Input und Wissensvermittlung durch die Lehrperson,
+- selbstständigen Phasen zur Vertiefung und Erkundung,
+- kooperativen Gruppen- und Projektarbeiten (z. B. Themenpuzzle, Filmaufnahmen, Podcast).
 
-**Eine aktive Mitarbeit Ihrerseits ist ausdrücklich erwünscht und fördert Ihren Lernerfolg.**
+**Ihre aktive Teilhabe ist entscheidend für Ihren Lernerfolg – Engagement und Neugier zahlen sich aus.**
 
 #### [fa-repeat] Selbststudium
 
-Regelmässiges **Aufarbeiten und Vertiefen** der Inhalte ist entscheidend. Dazu gehören:
+Regelmässiges **Aufarbeiten und Vertiefen** der Inhalte ist der Schlüssel zu Ihrem Erfolg. Das bedeutet konkret:
 
-*   **Übungs- und Wiederholungsaufgaben** bearbeiten
-*   **Unterrichtsnotizen nachbereiten** und strukturieren
-*   **Gezielte Vorbereitung** auf Leistungsnachweise
+- **Übungs- und Wiederholungsaufgaben** bearbeiten und so den Stoff festigen
+- **Unterrichtsnotizen nachbereiten** und strukturieren – für Ihr Verständnis
+- **Glossar aktiv mitfüllen** mit Fachbegriffen – und profitieren Sie von der Sammlung anderer
+- **Materialien recherchieren** und in die Diskussion einbringen – Ihr Wissen bereichert alle
+- **Gezielt vorbereiten** auf Leistungsnachweise – nicht zuletzt für Ihren Lernerfolg
 
-Sie verantworten Ihr **Lern- und Zeitmanagement**. Wenn Sie Unterstützung brauchen, **melden Sie sich** – ich helfe gerne.
+Sie verantworten Ihr **Lern- und Zeitmanagement** – das ist eine wichtige Kompetenz. Falls Sie Unterstützung brauchen oder Fragen haben – **melden Sie sich frühzeitig**. Ich bin gerne da und helfe Ihnen weiter.
 
 #### [fa-trophy] Leistungsnachweise & Benotung
 
-*   **Am Kursende absolvieren Sie eine Online-Prüfung; die Note wird auf eine Dezimalstelle gerundet.** Details finden Sie im Kapitel «[Leistungsnachweise](https://moodle.strickhof.ch/mod/book/view.php?id=64864&chapterid=7586)» dieses Kursbuchs.
-*   **Abmeldung bei Verhinderung:** Bitte melden Sie sich bei Krankheit oder anderen triftigen Gründen frühzeitig ab.
-*   **Nachprüfung:** In Absprache kann die Prüfung innerhalb einer Woche nachgeholt werden; in Ausnahmefällen muss die Prüfung an einem Samstagmorgen am Semesterende nachgeholt werden.
-*   **Notenberechnung:** Die Fachnote wird gemäss Formel
-    `(erzielte Punkte × 5)/(Gesamtpunktzahl × Korrekturfaktor) + 1` berechnet.
-*   **Nachweisführung:** Jede\*r Lernende führt die eigenen Notenübersichten selbst. Eine Fachbewertung ist nur möglich, wenn alle obligatorischen Leistungsnachweise vorliegen.
+Der Ausbildungsblock gilt als bestanden, wenn Sie die Pflichtaufträge korrekt abgeschlossen haben (siehe Kapitel «Leistungsnachweise»). Zusätzlich können Sie optional einen weiteren Leistungsnachweis erbringen und erhalten damit eine zusätzliche Note.
 
-Korrigierte Prüfungen (analog oder digital) werden gemeinsam besprochen; Fotoaufnahmen/Screenshots sind nicht gestattet. Ein späteres Einsehen ist nach Absprache möglich.
+**Wichtige Informationen:**
+
+- **Abmeldung bei Verhinderung:** Bitte melden Sie sich bei Krankheit oder triftigen Gründen **frühzeitig** ab.
+- **Notenberechnung:** Die Gesamtbewertung muss mindestens 4.0 erreichen. Falls Ihre Note darunter liegt, sprechen Sie mich an – wir finden gemeinsam einen guten Weg.
+- **Nachweisführung:** Sie führen Ihre Notenübersichten selbst. Eine Fachbewertung ist nur möglich, wenn alle obligatorischen Leistungsnachweise vorliegen.
+- **Besichtigung:** Korrigierte Arbeiten besprechen wir gemeinsam; später können Sie sie nach Absprache noch einmal einsehen.
 
 #### [fa-calendar] Fristen & Termine
 
-Arbeiten sind termingerecht einzureichen. Bei einer maximal 24-stündigen Verspätung wird 1,5 Notenpunkte abgezogen. Danach kann die Arbeit mit der Note 1 bewertet werden.
+Termingerechte Abgaben sind wichtig für den Ablauf des Kurses. Bei einer Verspätung von maximal 24 Stunden wird ein Notenpunkt abgezogen. Danach kann die Arbeit mit der Note 1 bewertet werden.
+
+**Wichtig:** Falls Sie einen wichtigen Grund für eine Verspätung haben, sprechen Sie mich **vorher** an – gemeinsam finden wir eine Lösung.
 
 #### [fa-copy] Umgang mit Plagiaten
 
-Ein Plagiat liegt vor, wenn fremde Gedanken oder Inhalte (Texte, Daten, Bilder u. a.) ohne Quellenangabe übernommen werden. Genauere Hinweise finden Sie im IDA-Modul über das «Zitieren». Wird ein Plagiat festgestellt, muss die Arbeit erneut eingereicht werden und kann höchstens mit der Note 4 bewertet werden. Wiederholte Verstösse gefährden die Promotion und werden der Schulleitung gemeldet.
+Ein Plagiat liegt vor, wenn Sie fremde Gedanken oder Inhalte (Texte, Bilder, Daten u. a.) ohne Quellenangabe verwenden. Das bedeutet: **Zitieren Sie immer Ihre Quellen!** Im IDA-Modul zum Thema «Zitieren» finden Sie detaillierte Hinweise.
+
+Wird ein Plagiat festgestellt, muss die Arbeit erneut eingereicht werden und kann höchstens mit der Note 4 bewertet werden. Wiederholte Verstösse gefährden die Promotion.
 
 #### [fa-clock-o] Aufwand
 
-Vorgesehen sind ca. 9–10 Präsenzlektionen. Für Vorbereitung, Prüfungsvorbereitung und Aufträge ausserhalb der Präsenz sind zusätzlich ca. 7–9 Stunden einzuplanen (flexibel planbar).
+Präsenzunterricht: ca. 10–12 Lektionen
 
-#### [fa-book] Literatur
+Selbststudium (flexibel planbar): ca. 8–10 Stunden für Vor- und Nachbereitung, Leistungsnachweise und Vorbereitung.
 
-*   **Kleesattel, W.** _Die Evolution._ UTB/Haupt (2011).
-*   **Campbell, N. A., Reece, J. B., Urry, L. A., Cain, M. L., Wasserman, S. A., Minorsky, P. V. & Jackson, R. B.** _Campbell Biologie._ 10th edn, Pearson Studium (2015).
-*   **Carroll, S. B.** _Die Darwin-DNA._ S. Fischer, Frankfurt am Main (2008).
-*   **Reyer, H.-U.** _Darwins langer Arm – Evolutionstheorie heute._ Vol. 47, vdf Hochschulverlag AG, ETH Zürich (2011).
-*   **nano (3sat).** _Darwins langer Schatten._ TV Dokumentation, 3sat (2009).
-*   **Staatssekretariat für Bildung, Forschung und Innovation (SBFI).** _Rahmenlehrplan für die Berufsmaturität._ SBFI, Bern (2025). [https://www.sbfi.admin.ch/dam/de/sd-web/umUlonTbNY5o/Rahmenlehrplan\_de\_web.pdf](https://www.sbfi.admin.ch/dam/de/sd-web/umUlonTbNY5o/Rahmenlehrplan_de_web.pdf) (Zugriff: 06.01.2026).
+#### [fa-book] Empfohlene Literatur und Quellen
+
+Diese Werke helfen Ihnen, die ökologischen Konzepte noch besser zu verstehen:
+
+- **Grüne Reihe Materialien SII.** Schroedel Verlag.
+- **Taschenlehrbuch Biologie: Ökologie – Evolution.** Thieme Verlag.
+- **Biologie für die Oberstufe, Themenband Ökologie.** Pearson Schule.
+- **Staatssekretariat für Bildung, Forschung und Innovation (SBFI).** _Rahmenlehrplan für die Berufsmaturität._ SBFI, Bern (2025). [https://www.sbfi.admin.ch/dam/de/sd-web/umUlonTbNY5o/Rahmenlehrplan_de_web.pdf](https://www.sbfi.admin.ch/dam/de/sd-web/umUlonTbNY5o/Rahmenlehrplan_de_web.pdf) (Zugriff: 12.05.2026).

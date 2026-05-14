@@ -4,15 +4,10 @@ Das Programm soll Ihnen dabei helfen, den inhaltlichen Überblick im Kurs zu beh
 
 | Datum/Woche | Programm |
 |:-----------------------:|:------------------|
-| KW 09 | Einführung in die Mikrobiologie |
-| KW 10 | Grundlagen der Mikrobiologie (ökologische Relevanz) |
-| KW 11 | Bakterien (Morphologie) |
-| KW 12 | Bakterien (Wachstumsbedinungen) |
-| KW 13 | Pilze (Morphologie) |
-| KW 14 | Pilze (Fortpflanzung) |
-| KW 15 | Viren (Morphologie) |
-| KW 16 | Viren (Infektionskrankheiten) |
-| KW 20 | Biologieprüfung IV (ePrüfung) |
+| KW 20 | Einleitung in die Ökologie |
+| KW 21 | Ökosysteme: biotische Umweltfaktoren |
+| KW 22 | Biodiversität und Klimawandel |
+| KW 23 | Abschluss des Ausbildungsblocks |
 
 ### Wichtige Termine
 
