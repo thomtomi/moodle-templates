@@ -1,0 +1,5 @@
+## [fa-tasks] Auftrag
+
+Asthma bronchiale und COPD sind chronische Erkrankungen der Atemwege. Beide können Atemnot verursachen, unterscheiden sich aber in Ursachen, Verlauf und Behandlung.
+
+Lesen Sie zuerst die beiden Moodle-Bücher «Humanbiologie: Asthma bronchiale» und «Humanbiologie: Chronisch obstruktive Lungenerkrankung (COPD)». Notieren Sie beim Lesen wichtige Fachbegriffe, typische Symptome, Ursachen und Behandlungsmöglichkeiten. Tauschen Sie sich danach zu zweit aus: Erklären Sie sich gegenseitig die zentralen Inhalte und halten Sie zwei Gemeinsamkeiten sowie zwei Unterschiede zwischen Asthma und COPD fest. Klären Sie offene Fragen im Fachforum. (🕣 ca. 40 bis 50 Minuten)
